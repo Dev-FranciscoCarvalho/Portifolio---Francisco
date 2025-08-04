@@ -173,11 +173,11 @@ section.topo-do-site .flex{
 }
 /* ESTILO FR ESPECIALIDADES*/
 section.especialidades{
-    font-size: 23px;
-    padding: 80px 4;
+    font-size: 20px;
+    padding: 70px 4;
 }
 section.especialidades .flex{
-    gap: 60px;
+    gap: 40px;
 }
 .especialidades .especialidades-box{
     color: #fff;
@@ -189,7 +189,7 @@ section.especialidades .flex{
 }
 .especialidades .especialidades-box:hover{
    transform: scale(1.05) ;  
-   box-shadow: 0 0 30px #ffffff79
+   box-shadow: 0 0 25px #ffffff79
 }
 .especialidades .especialidades-box i{
     font-size: 70px;
@@ -242,7 +242,7 @@ section.sobre .flex{
 /* PORTIFOLIO*/ 
 section.portifolio{
    padding: 80px 4%;
-   box-shadow: 0 0 40px 10px #5353532c;
+   box-shadow: 0 0 30px 10px #5353532c;
 }
 section.portifolio .flex{
     justify-content: space-around;
